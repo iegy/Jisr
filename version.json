@@ -1,9 +1,9 @@
 {
-  "versionName": "1.1.0",
-  "versionCode": 430152,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.1.0/Jisr-1.1.0.apk",
-  "size": 4628693,
-  "sha256": "579228863c9132b11585f44194ca6b8dbf785d7f69450024bc0eca834e42cdd6",
-  "notesAr": "الإصدار الأول من جسر: إرسال واستقبال الملفات والمجلدات والنصوص بين الأجهزة القريبة، استكمال تلقائي عند الانقطاع، غرف مشاركة للمتصفح، نسخ احتياطي بين جهازين، وأجهزة موثوقة.",
-  "notesEn": "First Jisr release: send and receive files, folders and text between nearby devices, automatic resume after interruptions, browser share rooms, device-to-device backup, and trusted devices."
+  "versionName": "1.1.1",
+  "versionCode": 430199,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.1.1/Jisr-1.1.1.apk",
+  "size": 4629105,
+  "sha256": "ec849595280b7eb31148697984f708b8d805aa69f5d0ec0f8253040bb18898ea",
+  "notesAr": "اتصالات متوازية لسرعة أعلى، وWi‑Fi Direct لو الواي فاي الخاص ما اشتغلش، وتقرير مشكلة من الإعدادات، ورسائل أوضح لما الواي فاي الخاص يفشل.",
+  "notesEn": "Parallel connections for faster transfers, Wi-Fi Direct fallback when the private Wi-Fi can't start, an in-app problem report, and clearer messages when the private Wi-Fi fails."
 }
