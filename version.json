@@ -1,9 +1,9 @@
 {
-  "versionName": "1.3.1",
-  "versionCode": 430277,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.3.1/Jisr-1.3.1.apk",
-  "size": 4629189,
-  "sha256": "7bb132ef2e816c5866041050cd46bd10a4cbf91d727c749614c305dd95c8666c",
-  "notesAr": "إصلاح: لو الاتصال قطع والجهاز مستني المرسل، زرار «إيقاف» دلوقتي بيلغي العملية فعلاً ويرجّع الشاشة (في تطبيق الأندرويد وتطبيق الويندوز).",
-  "notesEn": "Fix: when a connection drops and the receiver is waiting for the sender, Stop now really cancels the transfer and resets the screen (Android and Windows apps)."
+  "versionName": "1.4.0",
+  "versionCode": 430308,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.4.0/Jisr-1.4.0.apk",
+  "size": 4864717,
+  "sha256": "06d91e1b9cc79b660968b8f7357669cfcfb96d3a2b8a1fc72382fa8fb029f62b",
+  "notesAr": "تصميم جديد بالكامل: مو الروبوت بشاشة أكواد (بيرمش وبيغيّر تعبيره: جاهز، بينقل، وصل، مستني، فشل) وشكل ترمينال بأقواس وعناوين // وشريط تقدم بمربعات، في تطبيق الأندرويد وبرنامج الويندوز بنفس الهوية. الوضع الداكن هو الافتراضي.",
+  "notesEn": "All-new design: Mo the robot with a code screen (he blinks and changes face: ready, transferring, done, waiting, failed), a terminal look with corner brackets, // titles and a block progress bar, shared by the Android and Windows apps. Dark is now the default theme."
 }
