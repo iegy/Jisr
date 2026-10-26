@@ -1,9 +1,9 @@
 {
-  "versionName": "1.1.1",
-  "versionCode": 430199,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.1.1/Jisr-1.1.1.apk",
-  "size": 4629105,
-  "sha256": "ec849595280b7eb31148697984f708b8d805aa69f5d0ec0f8253040bb18898ea",
-  "notesAr": "اتصالات متوازية لسرعة أعلى، وWi‑Fi Direct لو الواي فاي الخاص ما اشتغلش، وتقرير مشكلة من الإعدادات، ورسائل أوضح لما الواي فاي الخاص يفشل.",
-  "notesEn": "Parallel connections for faster transfers, Wi-Fi Direct fallback when the private Wi-Fi can't start, an in-app problem report, and clearer messages when the private Wi-Fi fails."
+  "versionName": "1.2.0",
+  "versionCode": 430219,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.2.0/Jisr-1.2.0.apk",
+  "size": 4629189,
+  "sha256": "6ec3fd143db7d323541da7f86c8b8bc35e867143b2a7106d9191866b6ae3ba94",
+  "notesAr": "تطبيق جسر للويندوز: من غير تثبيت، بيظهر للموبايل في الأجهزة القريبة وبيستقبل بنفس التشفير والاستكمال والاتصالات المتوازية. وروابط بين جسر وحصن.",
+  "notesEn": "Jisr for Windows: no install, shows up in the phone's nearby devices and receives with the same encryption, resume and parallel connections. Plus links between Jisr and Hisn."
 }
