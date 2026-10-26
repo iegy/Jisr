@@ -1,9 +1,9 @@
 {
-  "versionName": "1.2.0",
-  "versionCode": 430219,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.2.0/Jisr-1.2.0.apk",
+  "versionName": "1.3.0",
+  "versionCode": 430253,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.3.0/Jisr-1.3.0.apk",
   "size": 4629189,
-  "sha256": "6ec3fd143db7d323541da7f86c8b8bc35e867143b2a7106d9191866b6ae3ba94",
-  "notesAr": "تطبيق جسر للويندوز: من غير تثبيت، بيظهر للموبايل في الأجهزة القريبة وبيستقبل بنفس التشفير والاستكمال والاتصالات المتوازية. وروابط بين جسر وحصن.",
-  "notesEn": "Jisr for Windows: no install, shows up in the phone's nearby devices and receives with the same encryption, resume and parallel connections. Plus links between Jisr and Hisn."
+  "sha256": "d74054791dd0bedb374bdb2f310d0831c593546b1b518da63df287a3b1fc73f5",
+  "notesAr": "تطبيق الويندوز بقى يرسل كمان: ملفات ومجلدات (سحب وإفلات) ونصوص، اتصالات متوازية، استكمال لو الاتصال قطع، سجل، تشغيل مع ويندوز وتحقق من التحديث. وإصلاح: وسم الحالة في السجل مبقاش شكله زرار، وكارت «الأخير» بيفتح السجل.",
+  "notesEn": "The Windows app can now send too: files, folders (drag and drop) and text, parallel connections, resume after drops, history, start with Windows and update check. Fix: the status tag in history no longer looks like a button, and the \"Recent\" card opens the history."
 }
