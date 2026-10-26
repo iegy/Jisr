@@ -1,9 +1,9 @@
 {
-  "versionName": "1.3.0",
-  "versionCode": 430253,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.3.0/Jisr-1.3.0.apk",
+  "versionName": "1.3.1",
+  "versionCode": 430277,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.3.1/Jisr-1.3.1.apk",
   "size": 4629189,
-  "sha256": "d74054791dd0bedb374bdb2f310d0831c593546b1b518da63df287a3b1fc73f5",
-  "notesAr": "تطبيق الويندوز بقى يرسل كمان: ملفات ومجلدات (سحب وإفلات) ونصوص، اتصالات متوازية، استكمال لو الاتصال قطع، سجل، تشغيل مع ويندوز وتحقق من التحديث. وإصلاح: وسم الحالة في السجل مبقاش شكله زرار، وكارت «الأخير» بيفتح السجل.",
-  "notesEn": "The Windows app can now send too: files, folders (drag and drop) and text, parallel connections, resume after drops, history, start with Windows and update check. Fix: the status tag in history no longer looks like a button, and the \"Recent\" card opens the history."
+  "sha256": "7bb132ef2e816c5866041050cd46bd10a4cbf91d727c749614c305dd95c8666c",
+  "notesAr": "إصلاح: لو الاتصال قطع والجهاز مستني المرسل، زرار «إيقاف» دلوقتي بيلغي العملية فعلاً ويرجّع الشاشة (في تطبيق الأندرويد وتطبيق الويندوز).",
+  "notesEn": "Fix: when a connection drops and the receiver is waiting for the sender, Stop now really cancels the transfer and resets the screen (Android and Windows apps)."
 }
