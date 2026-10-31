@@ -1,9 +1,9 @@
 {
-  "versionName": "1.4.0",
-  "versionCode": 430308,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.4.0/Jisr-1.4.0.apk",
-  "size": 4864717,
-  "sha256": "06d91e1b9cc79b660968b8f7357669cfcfb96d3a2b8a1fc72382fa8fb029f62b",
-  "notesAr": "تصميم جديد بالكامل: مو الروبوت بشاشة أكواد (بيرمش وبيغيّر تعبيره: جاهز، بينقل، وصل، مستني، فشل) وشكل ترمينال بأقواس وعناوين // وشريط تقدم بمربعات، في تطبيق الأندرويد وبرنامج الويندوز بنفس الهوية. الوضع الداكن هو الافتراضي.",
-  "notesEn": "All-new design: Mo the robot with a code screen (he blinks and changes face: ready, transferring, done, waiting, failed), a terminal look with corner brackets, // titles and a block progress bar, shared by the Android and Windows apps. Dark is now the default theme."
+  "versionName": "1.5.0",
+  "versionCode": 437458,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.5.0/Jisr-1.5.0.apk",
+  "size": 4900061,
+  "sha256": "37518a917038a122386bac6aeb331adc2d9e42cecff5a36bc2e9b2c59822eb21",
+  "notesAr": "تحديث كبير للتطبيقين:\n• المستقبل كمان يقدر يوقف مؤقت ويكمّل، جنب الإلغاء (أندرويد وويندوز).\n• إصلاح: الملف اللي اتلغى من عند المستقبل ينفع يتبعت تاني عادي، والإلغاء أثناء النقل بقى إلغاء فعلًا.\n• نفس الجهاز مبقاش يتكرر في قايمة الأجهزة، وجسر بيجرّب كل عناوينه لو واحد منها قديم.\n• الأندرويد: كود نصي في شاشة الاستقبال (نسخ/مشاركة)، وزرار «لصق كود» في الإرسال، واللينكات بقت بتتفتح.\n• الويندوز: غرف مشاركة زي الموبايل (أي جهاز يدخل من المتصفح)، ثيم فاتح، إنجليزي، معاينة الملف قبل الإرسال، قوايم بتتكبر بالسحب، الحافظة التلقائية من الأجهزة الموثوقة، تقرير مشكلة، والرموز مبقتش مربعات.",
+  "notesEn": "A big update for both apps:\n• The receiver can now pause and resume too, as well as cancel (Android and Windows).\n• Fix: a file the receiver cancelled can be sent again, and cancelling during a transfer always cancels.\n• The same device no longer shows up several times, and Jisr tries all of its announced ports.\n• Android: a text code on the receive screen (copy/share), “Paste code” when sending, and tappable links.\n• Windows: share rooms like on the phone (any device joins from its browser), light theme, English, preview before sending, resizable lists, automatic clipboard from trusted devices, problem report, and the check symbols no longer show as boxes."
 }
