@@ -1,9 +1,9 @@
 {
-  "versionName": "1.5.0",
-  "versionCode": 437458,
-  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.5.0/Jisr-1.5.0.apk",
-  "size": 4900061,
-  "sha256": "37518a917038a122386bac6aeb331adc2d9e42cecff5a36bc2e9b2c59822eb21",
-  "notesAr": "تحديث كبير للتطبيقين:\n• المستقبل كمان يقدر يوقف مؤقت ويكمّل، جنب الإلغاء (أندرويد وويندوز).\n• إصلاح: الملف اللي اتلغى من عند المستقبل ينفع يتبعت تاني عادي، والإلغاء أثناء النقل بقى إلغاء فعلًا.\n• نفس الجهاز مبقاش يتكرر في قايمة الأجهزة، وجسر بيجرّب كل عناوينه لو واحد منها قديم.\n• الأندرويد: كود نصي في شاشة الاستقبال (نسخ/مشاركة)، وزرار «لصق كود» في الإرسال، واللينكات بقت بتتفتح.\n• الويندوز: غرف مشاركة زي الموبايل (أي جهاز يدخل من المتصفح)، ثيم فاتح، إنجليزي، معاينة الملف قبل الإرسال، قوايم بتتكبر بالسحب، الحافظة التلقائية من الأجهزة الموثوقة، تقرير مشكلة، والرموز مبقتش مربعات.",
-  "notesEn": "A big update for both apps:\n• The receiver can now pause and resume too, as well as cancel (Android and Windows).\n• Fix: a file the receiver cancelled can be sent again, and cancelling during a transfer always cancels.\n• The same device no longer shows up several times, and Jisr tries all of its announced ports.\n• Android: a text code on the receive screen (copy/share), “Paste code” when sending, and tappable links.\n• Windows: share rooms like on the phone (any device joins from its browser), light theme, English, preview before sending, resizable lists, automatic clipboard from trusted devices, problem report, and the check symbols no longer show as boxes."
+  "versionName": "1.5.1",
+  "versionCode": 441688,
+  "apkUrl": "https://github.com/iegy/Jisr/releases/download/v1.5.1/Jisr-1.5.1.apk",
+  "size": 4900057,
+  "sha256": "78817431ecaf1f36690397318d0f7f3722f22825b8f4e4fe16871ca4012b5a12",
+  "notesAr": "• جسر للويندوز بقى بيستقبل الملفات من برامج تانية: «شارك بجسر» في كاسيت للويندوز بيفتح جسر على تبويب الإرسال والملفات جاهزة.\n• لو جسر فاتح بالفعل، الملفات بتروح لنفس النافذة بدل ما يفتح نسخة تانية.",
+  "notesEn": "• Jisr for Windows now accepts files from other apps: “Share with Jisr” in Cassette for Windows opens Jisr on the Send tab with the files ready.\n• If Jisr is already open, the files go to the same window instead of starting a second copy."
 }
